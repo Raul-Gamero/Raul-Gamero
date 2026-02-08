@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer • JavaScript Instructor • Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Building+scalable+web+apps;Teaching+JavaScript+with+passion;React+%7C+Next.js+%7C+Firebase;Open+to+remote+and+international+projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+scalable+products;Teaching+JavaScript+with+real+projects;React+%7C+Next.js+%7C+Firebase+%7C+AI;Open+to+remote+and+international+work" />
 </p>
 
 ---
@@ -12,11 +12,11 @@
 
 💻 **Ingénieur logiciel & formateur JavaScript**  
 🌍 Travail en **français, anglais et espagnol**  
-🎓 Professeur de JavaScript & fondateur de **French Voyage Akademie**  
-📱 Développeur **Web, Mobile & SaaS**  
-🤖 Passionné par **IA, chatbots, automatisation et VR**  
+🎓 Professeur de JavaScript  
+🧠 Créateur de produits **Web, SaaS, IA & expériences immersives**  
+🤖 Intérêt fort pour **IA, chatbots, VR et automatisation**
 
-Je conçois des applications **robustes, scalables et orientées produit**, avec une forte attention à l’UX, la performance et l’architecture.
+Je développe des applications **orientées produit**, avec une approche pragmatique : architecture propre, expérience utilisateur claire et solutions pensées pour évoluer.
 
 ---
 
@@ -32,67 +32,69 @@ Je conçois des applications **robustes, scalables et orientées produit**, avec
   <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,sql,graphql" />
 </p>
 
-### Mobile & DevOps
+### Mobile, DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=reactnative,expo,docker,git,github" />
 </p>
 
-### Outils & Ecosystème
-- CRM / ERP / Salesforce / SaaS
+**Autres compétences**
 - API REST & GraphQL
+- Authentification & gestion des rôles
+- SaaS, CRM, ERP, Salesforce
 - Architecture modulaire & scalable
-- Auth, géolocalisation, paiements, analytics
 
 ---
 
-## 📦 Projets clés
+## 🌐 Projet principal – HybVerse
 
-### 🚕 TaxiFast (React Native + TypeScript)
-> Application de ride-hailing pour le marché vénézuélien
+### 🌀 HybVerse — Plateforme immersive & intelligente
 
-- Auth utilisateurs & chauffeurs
-- Géolocalisation complète 🇻🇪
-- Tarifs dynamiques
-- Historique de trajets
-- Validation par email & SMS
+> **HybVerse** est un projet orienté **innovation**, combinant **web, IA et expériences immersives**.
 
-📱 Stack : `React Native • Expo • Context API • TypeScript`
+🎯 Objectifs :
+- Créer des **expériences hybrides** (web + immersion)
+- Intégrer des **assistants intelligents**
+- Proposer une architecture prête pour le **scaling SaaS**
+- Explorer les usages **VR / IA conversationnelle / automatisation**
 
----
+🧩 Axes techniques :
+- Frontend moderne avec **React & Next.js**
+- Backend orienté services & APIs
+- Intégration IA (chatbots, logique contextuelle)
+- Préparation multi-plateforme (web / mobile / immersion)
 
-### 🤖 SaaS Analytics – Canal Mercado
-> Centralisation de données issues de **5 CMS différents**
-
-- Agrégation automatique des métriques
-- Dashboards pour annonceurs
-- Rapports personnalisés
-- Remplacement d’un process manuel
-
-🧠 Stack : `Next.js • APIs • Data processing • SaaS architecture`
+🛠️ Stack :
+`Next.js • React • TypeScript • Firebase • APIs • IA • Architecture SaaS`
 
 ---
 
-### 👨‍👩‍👧 Plateforme Familles (React / Next.js)
-> Migration WordPress → Next.js (objectif +1M utilisateurs)
+## 📦 Autres projets & expériences
 
+### 📊 SaaS Analytics – Canal Mercado
+- Centralisation de données issues de **5 CMS**
+- Automatisation de métriques (audience, diffusions, vues)
+- Tableaux de bord pour annonceurs
+- Remplacement d’un process manuel par une plateforme interne
+
+### 👨‍👩‍👧 Plateforme Familles (Next.js)
+- Migration WordPress → Next.js
 - Filtres avancés (âge, budget, ville, transport)
 - Carte dynamique unique
 - Modèle B2B + éditorial
-- Monétisation par marques
 
 ---
 
 ## 🎓 Enseignement & pédagogie
 
 📘 **Professeur de JavaScript**
-- Fonctions, boucles, arrays, architecture
-- Pédagogie claire et progressive
-- Approche orientée **projet réel**
+- Bases solides : fonctions, boucles, arrays, logique
+- Approche orientée **projets réels**
+- Mise en avant de la compréhension, pas juste du code
 
 🗣️ **French Voyage Akademie**
-- Apprentissage immersif
-- Réalité virtuelle & conversation
-- Focus voyage & situations réelles
+- Apprentissage immersif du français
+- Production orale & situations réelles
+- Utilisation de supports vidéo & VR
 
 ---
 
@@ -120,7 +122,7 @@ Je conçois des applications **robustes, scalables et orientées produit**, avec
 
 ---
 
-## 🤝 Me contacter
+## 🤝 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com">
@@ -138,5 +140,5 @@ Je conçois des applications **robustes, scalables et orientées produit**, avec
 </p>
 
 <p align="center">
-  <i>“Code with purpose. Build with impact.”</i>
+  <i>“Build meaningful products. Teach with clarity. Scale with purpose.”</i>
 </p>
