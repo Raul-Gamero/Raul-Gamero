@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-label="Multiplatform toolkit: Flutter → Android, iOS, Web / PWA; React Native → Android, iOS, Web / PWA; Ionic → Android, iOS, Web / PWA; .NET MAUI → Android, iOS, Windows, macOS; Kotlin → Android">
+<title>Multiplatform toolkit: Flutter → Android, iOS, Web / PWA; React Native → Android, iOS, Web / PWA; Ionic → Android, iOS, Web / PWA; .NET MAUI → Android, iOS, Windows, macOS; Kotlin → Android</title>
+<style>
+.sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace}
+.b{font-weight:700}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .7s cubic-bezier(.2,.8,.2,1) both}
+.rise{animation:rise .9s cubic-bezier(.2,.8,.2,1) both}
+.fade{animation:fade 1s ease both}
+@keyframes pop{from{opacity:0;transform:translateY(10px) scale(.85)}to{opacity:1;transform:none}}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}.mp-sheen{animation:mp-sheen 9s ease-in-out 1.2s infinite}
+@keyframes mp-sheen{0%{transform:translateX(0)}30%,100%{transform:translateX(1700px)}}
+.flow{animation:fade .8s ease both,flow 1.6s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-36}}
+.pnode{animation:ping 5s ease-in-out infinite}
+@keyframes ping{0%,70%,100%{stroke:#24324D}80%{stroke:#22D3EE}}</style>
+<defs>
+<clipPath id="mp-clip"><rect width="1200" height="540" rx="18"/></clipPath>
+<linearGradient id="mp-sheen" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#mp-clip)">
+<rect width="1200" height="540" fill="#0F1729"/>
+<rect width="6" height="540" fill="#A78BFA"/>
+<g class="mp-sheen"><rect x="-320" y="-40" width="220" height="620" fill="url(#mp-sheen)" transform="skewX(-18)"/></g>
+<g class="rise"><text class="sans" x="40" y="54" font-size="28" font-weight="700" fill="#E8EEF8" text-anchor="start" >Multiplatform Toolkit</text></g>
+<g class="fade" style="animation-delay:0.3s"><text class="mono" x="859.27" y="54" font-size="17" textLength="300.73" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#A78BFA">// 5 frameworks → 5 platforms</tspan></text></g>
+<text class="mono" x="40" y="86" font-size="14" textLength="76.86" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#64748B">FRAMEWORK</tspan></text>
+<text class="mono" x="880" y="86" font-size="14" textLength="128.1" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#64748B">TARGET PLATFORM</tspan></text>
+<path d="M410 132C610 122 680 142 880 132" fill="none" stroke="#22304A" stroke-width="2"/>
+<path class="flow" d="M410 132C610 122 680 142 880 132" fill="none" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 14" stroke-opacity=".9" style="animation-delay:1s,0s;animation-duration:.8s,1.4s"/>
+<path d="M410 132C610 132 680 216 880 216" fill="none" stroke="#22304A" stroke-width="2"/>
+<path class="flow" d="M410 132C610 132 680 216 880 216" fill="none" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 14" stroke-opacity=".9" style="animation-delay:1.08s,0s;animation-duration:.8s,1.7s"/>
+<path d="M410 132C610 132 680 300 880 300" fill="none" stroke="#22304A" stroke-width="2"/>
+<path class="flow" d="M410 132C610 132 680 300 880 300" fill="none" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 14" stroke-opacity=".9" style="animation-delay:1.16s,0s;animation-duration:.8s,2s"/>
+<path d="M410 216C610 216 680 132 880 132" fill="none" stroke="#22304A" stroke-width="2"/>
+<path class="flow" d="M410 216C610 216 680 132 880 132" fill="none" stroke="#34D399" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 14" stroke-opacity=".9" style="animation-delay:1.24s,0s;animation-duration:.8s,1.4s"/>
+<path d="M410 216C610 206 680 226 880 216" fill="none" stroke="#22304A" stroke-width="2"/>
+<path class="flow" d="M410 216C610 206 680 226 880 216" fill="none" stroke="#34D399" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 14" stroke-opacity=".9" style="animation-delay:1.32s,0s;animation-duration:.8s,1.7s"/>
+<path d="M410 216C610 216 680 300 880 300" fill="none" stroke="#22304A" stroke-width="2"/>
+<path class="flow" d="M410 216C610 216 680 300 880 300" fill="none" stroke="#34D399" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 14" stroke-opacity=".9" style="animation-delay:1.4s,0s;animation-duration:.8s,2s"/>
+<path d="M410 300C610 300 680 132 880 132" fill="none" stroke="#22304A" stroke-width="2"/>
+<path class="flow" d="M410 300C610 300 680 132 880 132" fill="none" stroke="#FACC15" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 14" stroke-opacity=".9" style="animation-delay:1.48s,0s;animation-duration:.8s,1.4s"/>
+<path d="M410 300C610 300 680 216 880 216" fill="none" stroke="#22304A" stroke-width="2"/>
+<path class="flow" d="M410 300C610 300 680 216 880 216" fill="none" stroke="#FACC15" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 14" stroke-opacity=".9" style="animation-delay:1.56s,0s;animation-duration:.8s,1.7s"/>
+<path d="M410 300C610 290 680 310 880 300" fill="none" stroke="#22304A" stroke-width="2"/>
+<path class="flow" d="M410 300C610 290 680 310 880 300" fill="none" stroke="#FACC15" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 14" stroke-opacity=".9" style="animation-delay:1.64s,0s;animation-duration:.8s,2s"/>
+<path d="M410 384C610 384 680 132 880 132" fill="none" stroke="#22304A" stroke-width="2"/>
+<path class="flow" d="M410 384C610 384 680 132 880 132" fill="none" stroke="#A78BFA" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 14" stroke-opacity=".9" style="animation-delay:1.72s,0s;animation-duration:.8s,1.4s"/>
+<path d="M410 384C610 384 680 216 880 216" fill="none" stroke="#22304A" stroke-width="2"/>
+<path class="flow" d="M410 384C610 384 680 216 880 216" fill="none" stroke="#A78BFA" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 14" stroke-opacity=".9" style="animation-delay:1.8s,0s;animation-duration:.8s,1.7s"/>
+<path d="M410 384C610 374 680 394 880 384" fill="none" stroke="#22304A" stroke-width="2"/>
+<path class="flow" d="M410 384C610 374 680 394 880 384" fill="none" stroke="#A78BFA" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 14" stroke-opacity=".9" style="animation-delay:1.88s,0s;animation-duration:.8s,2s"/>
+<path d="M410 384C610 384 680 468 880 468" fill="none" stroke="#22304A" stroke-width="2"/>
+<path class="flow" d="M410 384C610 384 680 468 880 468" fill="none" stroke="#A78BFA" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 14" stroke-opacity=".9" style="animation-delay:1.96s,0s;animation-duration:.8s,1.4s"/>
+<path d="M410 468C610 468 680 132 880 132" fill="none" stroke="#22304A" stroke-width="2"/>
+<path class="flow" d="M410 468C610 468 680 132 880 132" fill="none" stroke="#F472B6" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 14" stroke-opacity=".9" style="animation-delay:2.04s,0s;animation-duration:.8s,1.7s"/>
+
+<g class="pop" style="animation-delay:0.2s">
+<rect x="40" y="100" width="370" height="64" rx="16" fill="#16213A" stroke="#24324D" stroke-width="1.5"/>
+<rect x="40" y="114" width="4" height="36" rx="2" fill="#38BDF8"/>
+<svg x="60" y="114" width="36" height="36" viewBox="0 0 24 24"><path fill="#47C5FB" d="M14.314 0L2.3 12 6 15.7 21.684.013h-7.357zm.014 11.072L7.857 17.53l6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.37z"/></svg>
+<text class="sans" x="112" y="128" font-size="20" font-weight="700" fill="#E8EEF8" text-anchor="start" >Flutter</text>
+<text class="mono" x="112" y="151" font-size="15" textLength="210.45" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#94A3B8">Dart · Material widgets</tspan></text>
+<circle cx="410" cy="132" r="5" fill="#38BDF8"/></g>
+<g class="pop" style="animation-delay:0.3s">
+<rect x="40" y="184" width="370" height="64" rx="16" fill="#16213A" stroke="#24324D" stroke-width="1.5"/>
+<rect x="40" y="198" width="4" height="36" rx="2" fill="#34D399"/>
+<svg x="60" y="198" width="36" height="36" viewBox="0 0 24 24"><path fill="#61DAFB" d="M14.23 12.004a2.236 2.236 0 0 1-2.235 2.236 2.236 2.236 0 0 1-2.236-2.236 2.236 2.236 0 0 1 2.235-2.236 2.236 2.236 0 0 1 2.236 2.236zm2.648-10.69c-1.346 0-3.107.96-4.888 2.622-1.78-1.653-3.542-2.602-4.887-2.602-.41 0-.783.093-1.106.278-1.375.793-1.683 3.264-.973 6.365C1.98 8.917 0 10.42 0 12.004c0 1.59 1.99 3.097 5.043 4.03-.704 3.113-.39 5.588.988 6.38.32.187.69.275 1.102.275 1.345 0 3.107-.96 4.888-2.624 1.78 1.654 3.542 2.603 4.887 2.603.41 0 .783-.09 1.106-.275 1.374-.792 1.683-3.263.973-6.365C22.02 15.096 24 13.59 24 12.004c0-1.59-1.99-3.097-5.043-4.032.704-3.11.39-5.587-.988-6.38-.318-.184-.688-.277-1.092-.278zm-.005 1.09v.006c.225 0 .406.044.558.127.666.382.955 1.835.73 3.704-.054.46-.142.945-.25 1.44-.96-.236-2.006-.417-3.107-.534-.66-.905-1.345-1.727-2.035-2.447 1.592-1.48 3.087-2.292 4.105-2.295zm-9.77.02c1.012 0 2.514.808 4.11 2.28-.686.72-1.37 1.537-2.02 2.442-1.107.117-2.154.298-3.113.538-.112-.49-.195-.964-.254-1.42-.23-1.868.054-3.32.714-3.707.19-.09.4-.127.563-.132zm4.882 3.05c.455.468.91.992 1.36 1.564-.44-.02-.89-.034-1.345-.034-.46 0-.915.01-1.36.034.44-.572.895-1.096 1.345-1.565zM12 8.1c.74 0 1.477.034 2.202.093.406.582.802 1.203 1.183 1.86.372.64.71 1.29 1.018 1.946-.308.655-.646 1.31-1.013 1.95-.38.66-.773 1.288-1.18 1.87-.728.063-1.466.098-2.21.098-.74 0-1.477-.035-2.202-.093-.406-.582-.802-1.204-1.183-1.86-.372-.64-.71-1.29-1.018-1.946.303-.657.646-1.313 1.013-1.954.38-.66.773-1.286 1.18-1.868.728-.064 1.466-.098 2.21-.098zm-3.635.254c-.24.377-.48.763-.704 1.16-.225.39-.435.782-.635 1.174-.265-.656-.49-1.31-.676-1.947.64-.15 1.315-.283 2.015-.386zm7.26 0c.695.103 1.365.23 2.006.387-.18.632-.405 1.282-.66 1.933-.2-.39-.41-.783-.64-1.174-.225-.392-.465-.774-.705-1.146zm3.063.675c.484.15.944.317 1.375.498 1.732.74 2.852 1.708 2.852 2.476-.005.768-1.125 1.74-2.857 2.475-.42.18-.88.342-1.355.493-.28-.958-.646-1.956-1.1-2.98.45-1.017.81-2.01 1.085-2.964zm-13.395.004c.278.96.645 1.957 1.1 2.98-.45 1.017-.812 2.01-1.086 2.964-.484-.15-.944-.318-1.37-.5-1.732-.737-2.852-1.706-2.852-2.474 0-.768 1.12-1.742 2.852-2.476.42-.18.88-.342 1.356-.494zm11.678 4.28c.265.657.49 1.312.676 1.948-.64.157-1.316.29-2.016.39.24-.375.48-.762.705-1.158.225-.39.435-.788.636-1.18zm-9.945.02c.2.392.41.783.64 1.175.23.39.465.772.705 1.143-.695-.102-1.365-.23-2.006-.386.18-.63.406-1.282.66-1.933zM17.92 16.32c.112.493.2.968.254 1.423.23 1.868-.054 3.32-.714 3.708-.147.09-.338.128-.563.128-1.012 0-2.514-.807-4.11-2.28.686-.72 1.37-1.536 2.02-2.44 1.107-.118 2.154-.3 3.113-.54zm-11.83.01c.96.234 2.006.415 3.107.532.66.905 1.345 1.727 2.035 2.446-1.595 1.483-3.092 2.295-4.11 2.295-.22-.005-.406-.05-.553-.132-.666-.38-.955-1.834-.73-3.703.054-.46.142-.944.25-1.438zm4.56.64c.44.02.89.034 1.345.034.46 0 .915-.01 1.36-.034-.44.572-.895 1.095-1.345 1.565-.455-.47-.91-.993-1.36-1.565z"/></svg>
+<text class="sans" x="112" y="212" font-size="20" font-weight="700" fill="#E8EEF8" text-anchor="start" >React Native</text>
+<text class="mono" x="112" y="235" font-size="15" textLength="219.6" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#94A3B8">Expo SDK 51 · JavaScript</tspan></text>
+<circle cx="410" cy="216" r="5" fill="#34D399"/></g>
+<g class="pop" style="animation-delay:0.4s">
+<rect x="40" y="268" width="370" height="64" rx="16" fill="#16213A" stroke="#24324D" stroke-width="1.5"/>
+<rect x="40" y="282" width="4" height="36" rx="2" fill="#FACC15"/>
+<svg x="60" y="282" width="36" height="36" viewBox="0 0 24 24"><path fill="#4D8DFF" d="M22.922 7.027l-.103-.23-.169.188c-.408.464-.928.82-1.505 1.036l-.159.061.066.155a9.745 9.745 0 0 1 .75 3.759c0 5.405-4.397 9.806-9.806 9.806-5.409 0-9.802-4.397-9.802-9.802 0-5.405 4.402-9.806 9.806-9.806 1.467 0 2.883.319 4.2.947l.155.075.066-.155a3.767 3.767 0 0 1 1.106-1.453l.197-.159-.225-.117A11.905 11.905 0 0 0 12.001.001c-6.619 0-12 5.381-12 12s5.381 12 12 12 12-5.381 12-12c0-1.73-.361-3.403-1.078-4.973zM12 6.53A5.476 5.476 0 0 0 6.53 12 5.476 5.476 0 0 0 12 17.47 5.476 5.476 0 0 0 17.47 12 5.479 5.479 0 0 0 12 6.53zm10.345-2.007a2.494 2.494 0 1 1-4.988 0 2.494 2.494 0 0 1 4.988 0z"/></svg>
+<text class="sans" x="112" y="296" font-size="20" font-weight="700" fill="#E8EEF8" text-anchor="start" >Ionic</text>
+<text class="mono" x="112" y="319" font-size="15" textLength="219.6" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#94A3B8">Angular 17 · Capacitor 6</tspan></text>
+<circle cx="410" cy="300" r="5" fill="#FACC15"/></g>
+<g class="pop" style="animation-delay:0.5s">
+<rect x="40" y="352" width="370" height="64" rx="16" fill="#16213A" stroke="#24324D" stroke-width="1.5"/>
+<rect x="40" y="366" width="4" height="36" rx="2" fill="#A78BFA"/>
+<svg x="60" y="366" width="36" height="36" viewBox="0 0 24 24"><path fill="#8B6CF0" d="M24 8.77h-2.468v7.565h-1.425V8.77h-2.462V7.53H24zm-6.852 7.565h-4.821V7.53h4.63v1.24h-3.205v2.494h2.953v1.234h-2.953v2.604h3.396zm-6.708 0H8.882L4.78 9.863a2.896 2.896 0 0 1-.258-.51h-.036c.032.189.048.592.048 1.21v5.772H3.157V7.53h1.659l3.965 6.32c.167.261.275.442.323.54h.024c-.04-.233-.06-.629-.06-1.185V7.529h1.372zm-8.703-.693a.868.829 0 0 1-.869.829.868.829 0 0 1-.868-.83.868.829 0 0 1 .868-.828.868.829 0 0 1 .869.829Z"/></svg>
+<text class="sans" x="112" y="380" font-size="20" font-weight="700" fill="#E8EEF8" text-anchor="start" >.NET MAUI</text>
+<text class="mono" x="112" y="403" font-size="15" textLength="173.85" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#94A3B8">C# · XAML · .NET 10</tspan></text>
+<circle cx="410" cy="384" r="5" fill="#A78BFA"/></g>
+<g class="pop" style="animation-delay:0.6s">
+<rect x="40" y="436" width="370" height="64" rx="16" fill="#16213A" stroke="#24324D" stroke-width="1.5"/>
+<rect x="40" y="450" width="4" height="36" rx="2" fill="#F472B6"/>
+<svg x="60" y="450" width="36" height="36" viewBox="0 0 24 24"><path fill="#A97BFF" d="M24 24H0V0h24L12 12Z"/></svg>
+<text class="sans" x="112" y="464" font-size="20" font-weight="700" fill="#E8EEF8" text-anchor="start" >Kotlin</text>
+<text class="mono" x="112" y="487" font-size="15" textLength="247.05" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#94A3B8">Android SDK 34 · Gradle KTS</tspan></text>
+<circle cx="410" cy="468" r="5" fill="#F472B6"/></g>
+<g class="pop" style="animation-delay:0.5s">
+<rect class="pnode" x="880" y="100" width="280" height="64" rx="16" fill="#16213A" stroke="#24324D" stroke-width="1.5" style="animation-delay:0s"/>
+<svg x="900" y="115" width="34" height="34" viewBox="0 0 24 24"><path fill="#3DDC84" d="M18.4395 5.5586c-.675 1.1664-1.352 2.3318-2.0274 3.498-.0366-.0155-.0742-.0286-.1113-.043-1.8249-.6957-3.484-.8-4.42-.787-1.8551.0185-3.3544.4643-4.2597.8203-.084-.1494-1.7526-3.021-2.0215-3.4864a1.1451 1.1451 0 0 0-.1406-.1914c-.3312-.364-.9054-.4859-1.379-.203-.475.282-.7136.9361-.3886 1.5019 1.9466 3.3696-.0966-.2158 1.9473 3.3593.0172.031-.4946.2642-1.3926 1.0177C2.8987 12.176.452 14.772 0 18.9902h24c-.119-1.1108-.3686-2.099-.7461-3.0683-.7438-1.9118-1.8435-3.2928-2.7402-4.1836a12.1048 12.1048 0 0 0-2.1309-1.6875c.6594-1.122 1.312-2.2559 1.9649-3.3848.2077-.3615.1886-.7956-.0079-1.1191a1.1001 1.1001 0 0 0-.8515-.5332c-.5225-.0536-.9392.3128-1.0488.5449zm-.0391 8.461c.3944.5926.324 1.3306-.1563 1.6503-.4799.3197-1.188.0985-1.582-.4941-.3944-.5927-.324-1.3307.1563-1.6504.4727-.315 1.1812-.1086 1.582.4941zM7.207 13.5273c.4803.3197.5506 1.0577.1563 1.6504-.394.5926-1.1038.8138-1.584.4941-.48-.3197-.5503-1.0577-.1563-1.6504.4008-.6021 1.1087-.8106 1.584-.4941z"/></svg>
+<text class="sans" x="950" y="129" font-size="20" font-weight="700" fill="#E8EEF8" text-anchor="start" >Android</text>
+<text class="sans" x="950" y="151" font-size="15" font-weight="400" fill="#94A3B8" text-anchor="start" >Phones &amp; tablets</text>
+<circle cx="880" cy="132" r="5" fill="#CBD5E1"/></g>
+<g class="pop" style="animation-delay:0.6s">
+<rect class="pnode" x="880" y="184" width="280" height="64" rx="16" fill="#16213A" stroke="#24324D" stroke-width="1.5" style="animation-delay:0.5s"/>
+<svg x="900" y="199" width="34" height="34" viewBox="0 0 24 24"><path fill="#E8EEF8" d="M12.152 6.896c-.948 0-2.415-1.078-3.96-1.04-2.04.027-3.91 1.183-4.961 3.014-2.117 3.675-.546 9.103 1.519 12.09 1.013 1.454 2.208 3.09 3.792 3.039 1.52-.065 2.09-.987 3.935-.987 1.831 0 2.35.987 3.96.948 1.637-.026 2.676-1.48 3.676-2.948 1.156-1.688 1.636-3.325 1.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04 2.48-4.494 2.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675 1.09-4.61 1.09zM15.53 3.83c.843-1.012 1.4-2.427 1.245-3.83-1.207.052-2.662.805-3.532 1.818-.78.896-1.454 2.338-1.273 3.714 1.338.104 2.715-.688 3.559-1.701"/></svg>
+<text class="sans" x="950" y="213" font-size="20" font-weight="700" fill="#E8EEF8" text-anchor="start" >iOS</text>
+<text class="sans" x="950" y="235" font-size="15" font-weight="400" fill="#94A3B8" text-anchor="start" >iPhone &amp; iPad</text>
+<circle cx="880" cy="216" r="5" fill="#CBD5E1"/></g>
+<g class="pop" style="animation-delay:0.7s">
+<rect class="pnode" x="880" y="268" width="280" height="64" rx="16" fill="#16213A" stroke="#24324D" stroke-width="1.5" style="animation-delay:1s"/>
+<g transform="translate(900 283) scale(1.42)" fill="none" stroke="#93C5FD" stroke-width="1.6">
+<circle cx="12" cy="12" r="10"/><ellipse cx="12" cy="12" rx="4.2" ry="10"/><path d="M2 12h20M3.6 7h16.8M3.6 17h16.8"/></g>
+<text class="sans" x="950" y="297" font-size="20" font-weight="700" fill="#E8EEF8" text-anchor="start" >Web / PWA</text>
+<text class="sans" x="950" y="319" font-size="15" font-weight="400" fill="#94A3B8" text-anchor="start" >Any browser</text>
+<circle cx="880" cy="300" r="5" fill="#CBD5E1"/></g>
+<g class="pop" style="animation-delay:0.8s">
+<rect class="pnode" x="880" y="352" width="280" height="64" rx="16" fill="#16213A" stroke="#24324D" stroke-width="1.5" style="animation-delay:1.5s"/>
+<svg x="900" y="367" width="34" height="34" viewBox="0 0 128 128"><g fill="#3B9BF0"><path d="M67.328 67.331h60.669V128H67.328zm-67.325 0h60.669V128H.003zM67.328 0h60.669v60.669H67.328zM.003 0h60.669v60.669H.003z"/></g></svg>
+<text class="sans" x="950" y="381" font-size="20" font-weight="700" fill="#E8EEF8" text-anchor="start" >Windows</text>
+<text class="sans" x="950" y="403" font-size="15" font-weight="400" fill="#94A3B8" text-anchor="start" >Desktop</text>
+<circle cx="880" cy="384" r="5" fill="#CBD5E1"/></g>
+<g class="pop" style="animation-delay:0.9s">
+<rect class="pnode" x="880" y="436" width="280" height="64" rx="16" fill="#16213A" stroke="#24324D" stroke-width="1.5" style="animation-delay:2s"/>
+<svg x="900" y="451" width="34" height="34" viewBox="0 0 24 24"><path fill="#E8EEF8" d="M12.152 6.896c-.948 0-2.415-1.078-3.96-1.04-2.04.027-3.91 1.183-4.961 3.014-2.117 3.675-.546 9.103 1.519 12.09 1.013 1.454 2.208 3.09 3.792 3.039 1.52-.065 2.09-.987 3.935-.987 1.831 0 2.35.987 3.96.948 1.637-.026 2.676-1.48 3.676-2.948 1.156-1.688 1.636-3.325 1.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04 2.48-4.494 2.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675 1.09-4.61 1.09zM15.53 3.83c.843-1.012 1.4-2.427 1.245-3.83-1.207.052-2.662.805-3.532 1.818-.78.896-1.454 2.338-1.273 3.714 1.338.104 2.715-.688 3.559-1.701"/></svg>
+<text class="sans" x="950" y="465" font-size="20" font-weight="700" fill="#E8EEF8" text-anchor="start" >macOS</text>
+<text class="sans" x="950" y="487" font-size="15" font-weight="400" fill="#94A3B8" text-anchor="start" >Desktop</text>
+<circle cx="880" cy="468" r="5" fill="#CBD5E1"/></g>
+</g><rect x=".5" y=".5" width="1199" height="539" rx="18" fill="none" stroke="#24324D"/>
+</svg>
