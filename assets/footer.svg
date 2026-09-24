@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Merci, Thank you, Gracias — let's build something great together">
+<title>Merci, Thank you, Gracias — let's build something great together</title>
+<style>
+.sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace}
+.b{font-weight:700}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .7s cubic-bezier(.2,.8,.2,1) both}
+.rise{animation:rise .9s cubic-bezier(.2,.8,.2,1) both}
+.fade{animation:fade 1s ease both}
+@keyframes pop{from{opacity:0;transform:translateY(10px) scale(.85)}to{opacity:1;transform:none}}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}.w0{animation:w0 16s linear infinite}@keyframes w0{to{transform:translateX(-600px)}}.w1{animation:w1 11s linear infinite}@keyframes w1{to{transform:translateX(-400px)}}.w2{animation:w2 8s linear infinite}@keyframes w2{to{transform:translateX(-300px)}}</style>
+<defs><clipPath id="fc"><rect width="1200" height="190" rx="20"/></clipPath></defs>
+<g clip-path="url(#fc)">
+<path class="w0" d="M0 58 Q150 44 300 58 T600 58 Q750 44 900 58 T1200 58 Q1350 44 1500 58 T1800 58 Q1950 44 2100 58 T2400 58 V400 H0 Z" fill="#1A2540" fill-opacity="0.55"/>
+<path class="w1" d="M0 74 Q100 62 200 74 T400 74 Q500 62 600 74 T800 74 Q900 62 1000 74 T1200 74 Q1300 62 1400 74 T1600 74 Q1700 62 1800 74 T2000 74 V400 H0 Z" fill="#141E35" fill-opacity="0.85"/>
+<path class="w2" d="M0 90 Q75 81 150 90 T300 90 Q375 81 450 90 T600 90 Q675 81 750 90 T900 90 Q975 81 1050 90 T1200 90 Q1275 81 1350 90 T1500 90 Q1575 81 1650 90 T1800 90 V400 H0 Z" fill="#0B1220" fill-opacity="1"/>
+<g class="rise" style="animation-delay:0.3s"><text class="sans" x="600" y="138" font-size="24" font-weight="700" fill="#E8EEF8" text-anchor="middle" >Merci  ·  Thank you  ·  Gracias</text></g>
+<g class="fade" style="animation-delay:0.8s"><text class="mono" x="433.47" y="166" font-size="14" textLength="333.06" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#94A3B8">// let's build something great together</tspan></text></g>
+</g>
+</svg>

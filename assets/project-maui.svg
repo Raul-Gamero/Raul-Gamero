@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="244" viewBox="0 0 600 244" role="img" aria-label="ActividadMauiApp (.NET MAUI · C# · XAML · .NET 10): Single-project app with Shell navigation: RadioButton, CheckBox and Picker calculators plus an ObservableCollection-backed ListView. Platforms: Android, iOS, Windows, macOS.">
+<title>ActividadMauiApp (.NET MAUI · C# · XAML · .NET 10): Single-project app with Shell navigation: RadioButton, CheckBox and Picker calculators plus an ObservableCollection-backed ListView. Platforms: Android, iOS, Windows, macOS.</title>
+<style>
+.sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace}
+.b{font-weight:700}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .7s cubic-bezier(.2,.8,.2,1) both}
+.rise{animation:rise .9s cubic-bezier(.2,.8,.2,1) both}
+.fade{animation:fade 1s ease both}
+@keyframes pop{from{opacity:0;transform:translateY(10px) scale(.85)}to{opacity:1;transform:none}}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}.pc-sheen{animation:pc-sheen 7s ease-in-out 1.2s infinite}
+@keyframes pc-sheen{0%{transform:translateX(0)}30%,100%{transform:translateX(1100px)}}
+.accent{animation:accent 4s ease-in-out infinite}
+@keyframes accent{0%,100%{opacity:.55}50%{opacity:1}}</style>
+<defs>
+<clipPath id="pc-clip"><rect width="600" height="244" rx="16"/></clipPath>
+<linearGradient id="pc-sheen" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#pc-clip)">
+<rect width="600" height="244" fill="#0F1729"/>
+
+<g class="pc-sheen"><rect x="-320" y="-40" width="220" height="324" fill="url(#pc-sheen)" transform="skewX(-18)"/></g>
+<rect class="accent" width="600" height="3" fill="#A78BFA"/>
+<g class="pop" style="animation-delay:0.1s"><rect x="28" y="26" width="58" height="58" rx="14" fill="#16213A" stroke="#24324D"/><svg x="40" y="38" width="34" height="34" viewBox="0 0 24 24"><path fill="#8B6CF0" d="M24 8.77h-2.468v7.565h-1.425V8.77h-2.462V7.53H24zm-6.852 7.565h-4.821V7.53h4.63v1.24h-3.205v2.494h2.953v1.234h-2.953v2.604h3.396zm-6.708 0H8.882L4.78 9.863a2.896 2.896 0 0 1-.258-.51h-.036c.032.189.048.592.048 1.21v5.772H3.157V7.53h1.659l3.965 6.32c.167.261.275.442.323.54h.024c-.04-.233-.06-.629-.06-1.185V7.529h1.372zm-8.703-.693a.868.829 0 0 1-.869.829.868.829 0 0 1-.868-.83.868.829 0 0 1 .868-.828.868.829 0 0 1 .869.829Z"/></svg></g>
+<g class="rise" style="animation-delay:0.2s"><text class="sans" x="102" y="52" font-size="23" font-weight="700" fill="#E8EEF8" text-anchor="start" >ActividadMauiApp</text>
+<text class="mono" x="102" y="77" font-size="15" textLength="283.65" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#A78BFA">.NET MAUI · C# · XAML · .NET 10</tspan></text></g>
+<g class="rise" style="animation-delay:0.3s"><path d="M548 38h14v14M562 38l-16 16" fill="none" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/></g>
+<g class="fade" style="animation-delay:0.4s"><text class="sans" x="28" y="120" font-size="17" font-weight="400" fill="#CBD5E1" text-anchor="start" >Single-project app with Shell navigation: RadioButton,</text>
+<text class="sans" x="28" y="144" font-size="17" font-weight="400" fill="#CBD5E1" text-anchor="start" >CheckBox and Picker calculators plus an</text>
+<text class="sans" x="28" y="168" font-size="17" font-weight="400" fill="#CBD5E1" text-anchor="start" >ObservableCollection-backed ListView.</text></g>
+<g class="pop" style="animation-delay:0.7s"><rect x="28" y="196" width="82.8" height="28" rx="14" fill="#16213A" stroke="#2B3B57"/><text class="sans" x="69.4" y="215" font-size="14" font-weight="400" fill="#CBD5E1" text-anchor="middle" >Android</text></g><g class="pop" style="animation-delay:0.78s"><rect x="118.8" y="196" width="49.2" height="28" rx="14" fill="#16213A" stroke="#2B3B57"/><text class="sans" x="143.4" y="215" font-size="14" font-weight="400" fill="#CBD5E1" text-anchor="middle" >iOS</text></g><g class="pop" style="animation-delay:0.86s"><rect x="176" y="196" width="82.8" height="28" rx="14" fill="#16213A" stroke="#2B3B57"/><text class="sans" x="217.4" y="215" font-size="14" font-weight="400" fill="#CBD5E1" text-anchor="middle" >Windows</text></g><g class="pop" style="animation-delay:0.94s"><rect x="266.8" y="196" width="66" height="28" rx="14" fill="#16213A" stroke="#2B3B57"/><text class="sans" x="299.8" y="215" font-size="14" font-weight="400" fill="#CBD5E1" text-anchor="middle" >macOS</text></g>
+<g class="fade" style="animation-delay:0.9s"><circle cx="541.2" cy="210" r="6" fill="#178600"/><text class="sans" x="555.2" y="215" font-size="15" font-weight="400" fill="#94A3B8" text-anchor="start" >C#</text></g>
+</g><rect x=".5" y=".5" width="599" height="243" rx="16" fill="none" stroke="#24324D"/>
+</svg>

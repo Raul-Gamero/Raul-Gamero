@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="56" viewBox="0 0 176 56" role="img" aria-label="LinkedIn">
+<title>LinkedIn</title>
+<style>
+.sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace}
+.b{font-weight:700}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .7s cubic-bezier(.2,.8,.2,1) both}
+.rise{animation:rise .9s cubic-bezier(.2,.8,.2,1) both}
+.fade{animation:fade 1s ease both}
+@keyframes pop{from{opacity:0;transform:translateY(10px) scale(.85)}to{opacity:1;transform:none}}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}.s{animation:s 5s ease-in-out 1s infinite}@keyframes s{0%{transform:translateX(0)}30%,100%{transform:translateX(376px)}}</style>
+<defs><clipPath id="bc"><rect width="176" height="56" rx="12"/></clipPath>
+<linearGradient id="bs" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#bc)"><rect width="176" height="56" fill="#0A66C2"/>
+<g class="s"><rect x="-120" y="-10" width="70" height="76" fill="url(#bs)" transform="skewX(-20)"/></g></g>
+<rect x=".75" y=".75" width="174.5" height="54.5" rx="11.5" fill="none" stroke="#2B83DB" stroke-width="1.5"/>
+<svg x="22" y="16" width="24" height="24" viewBox="0 0 128 128"><g fill="#fff"><path d="M116 3H12a8.91 8.91 0 00-9 8.8v104.42a8.91 8.91 0 009 8.78h104a8.93 8.93 0 009-8.81V11.77A8.93 8.93 0 00116 3zM39.17 107H21.06V48.73h18.11zm-9-66.21a10.5 10.5 0 1110.49-10.5 10.5 10.5 0 01-10.54 10.48zM107 107H88.89V78.65c0-6.75-.12-15.44-9.41-15.44s-10.87 7.36-10.87 15V107H50.53V48.73h17.36v8h.24c2.42-4.58 8.32-9.41 17.13-9.41C103.6 47.28 107 59.35 107 75z"/></g></svg>
+<text class="sans" x="60" y="35" font-size="18" font-weight="700" fill="#fff" text-anchor="start" >LinkedIn</text>
+</svg>
